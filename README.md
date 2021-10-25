@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning web development at @AllWomen.
+- 📫 How to reach me: anionce91@gmail.com
+
 <!--
 **anionce/anionce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
