@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning web development at @AllWomen.
+- 🌱 Web developer
 - 📫 How to reach me: anionce91@gmail.com
 
 <!--
